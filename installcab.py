@@ -138,7 +138,7 @@ def process_value(rv, arch):
     elif value_type == 'REG_SZ':
         value = "\"%s\"" % value
     else:
-        print("warning unkown type: %s" % value_type)
+        print("warning unknown type: %s" % value_type)
         value = "\"%s\"" % value
     if value:
         value = replace_variables(value, arch)
