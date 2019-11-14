@@ -1,3 +1,7 @@
+# Fork Updates:
+
+This fork was updated for use with [these instructions](https://steamcommunity.com/sharedfiles/filedetails/?id=1654060648) to make Resident Evil games workable Proton until that is sufficiently updated, it appears to be necessary for RE versions 2 through 7.
+
 # python-installcab
 
 Extract and install components from cab based installers
